@@ -1,2 +1,2 @@
 # AJSPSWebsite
-Read the README for more info.
+Read the LICENSE file for more info.
